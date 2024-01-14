@@ -1,0 +1,82 @@
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    span{
+        color: #7839F3;
+    }
+}
+
+.nav-item{
+    margin-left: 20px;
+    font-size: 18px;
+
+    font-weight: 600;
+}
+.teks-kiri{
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+    h1{
+        font-size: 28px;
+        font-weight: 900;
+        margin-bottom: 6px;
+    }
+    span{
+        color: #7839F3;
+    }
+    h5{
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 12px;
+    }
+    .btn-teks{
+        background-color: #7839F3;
+        border-radius: 42px;
+        color: #fff;
+    }
+}
+
+.icon-sosmed{
+    background-color: #7839F3;
+    p{
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        color: white;
+    }
+    a{
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        font-size: 16px;
+        font-weight: 600;
+    }
+}
+.contact-form-container {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .text-contact{
+    font-family: 'Poppins', sans-serif;
+    color: #7839F3;
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .form-group label {
+    font-weight: bold;
+  }
+
+  .btn-send {
+    background-color: #7839F3;
+    color: #fff;
+    border: none;
+    border-radius: 42px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 30px;
+  }

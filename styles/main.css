@@ -1,0 +1,84 @@
+.navbar-brand {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+.navbar-brand span {
+  color: #7839F3;
+}
+
+.nav-item {
+  margin-left: 20px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.teks-kiri {
+  margin-top: 100px;
+  font-family: "Poppins", sans-serif;
+}
+.teks-kiri h1 {
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 6px;
+}
+.teks-kiri span {
+  color: #7839F3;
+}
+.teks-kiri h5 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.teks-kiri .btn-teks {
+  background-color: #7839F3;
+  border-radius: 42px;
+  color: #fff;
+}
+
+.icon-sosmed {
+  background-color: #7839F3;
+}
+.icon-sosmed p {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+}
+.icon-sosmed a {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.contact-form-container {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.text-contact {
+  font-family: "Poppins", sans-serif;
+  color: #7839F3;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.btn-send {
+  background-color: #7839F3;
+  color: #fff;
+  border: none;
+  border-radius: 42px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 30px;
+}/*# sourceMappingURL=main.css.map */
